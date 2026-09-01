@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/Website-Griya-Kesambi/', // Ganti dengan nama repo Anda yang persis
+  base: '/griya-kesambi/', // Ganti dengan nama repo Anda yang persis
 })
